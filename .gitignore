@@ -31,5 +31,7 @@
 *.out
 *.app
 
+# GBA stuff
 *.elf
 *.gba
+build/
