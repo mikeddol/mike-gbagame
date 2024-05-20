@@ -35,3 +35,8 @@
 *.elf
 *.gba
 build/
+
+# Other
+*.DS_Store
+.vscode/*
+*.code-workspace
